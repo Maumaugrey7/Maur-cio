@@ -1,4 +1,4 @@
-# Mauricio
+
 # 👋 Hello, I'm Mauricio 
 
 🔹 **Cybersecurity Professional | Threat Intelligence | DFIR | CSIRT**  
